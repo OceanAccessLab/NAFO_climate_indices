@@ -1,319 +1,373 @@
 "index","NAFOdiv","year","std.anomaly"
-"spring bloom timing","OB1EF",2003,-0.181656863123509
-"spring bloom timing","OB1EF",2004,-0.421243021284713
-"spring bloom timing","OB1EF",2005,-0.912554811349692
-"spring bloom timing","OB1EF",2006,0.145190424476618
-"spring bloom timing","OB1EF",2007,-0.302566682016261
-"spring bloom timing","OB1EF",2008,1.23242000364356
-"spring bloom timing","OB1EF",2009,0.531615123700908
-"spring bloom timing","OB1EF",2010,-0.0309679965529833
-"spring bloom timing","OB1EF",2011,-1.06412687947761
-"spring bloom timing","OB1EF",2012,0.187273409271076
-"spring bloom timing","OB1EF",2013,0.492346206952743
-"spring bloom timing","OB1EF",2014,0.237054840017343
-"spring bloom timing","OB1EF",2015,-0.281374985582869
-"spring bloom timing","OB1EF",2016,0.54168999131944
-"spring bloom timing","OB1EF",2017,-0.247592556493901
-"spring bloom timing","OB1EF",2018,-1.28401326770572
-"spring bloom timing","OB1EF",2019,0.0296241512006377
-"spring bloom timing","OB1EF",2020,1.32888291300495
-"spring bloom timing","OB1EF",2021,-0.118081773823332
-"spring bloom timing","OB1EF",2022,-0.446730598403371
-"spring bloom timing","OB1EF",2023,0.938911795017647
-"spring bloom timing","3M",2003,2.38545214740466
-"spring bloom timing","3M",2004,0.632411452060899
-"spring bloom timing","3M",2005,-0.367868466665781
-"spring bloom timing","3M",2006,-1.20704051023451
-"spring bloom timing","3M",2007,0.42200960758445
-"spring bloom timing","3M",2008,-0.403012442901852
-"spring bloom timing","3M",2009,-0.419135757381364
-"spring bloom timing","3M",2010,0.697828735858907
-"spring bloom timing","3M",2011,0.440568256401031
-"spring bloom timing","3M",2012,-0.421571091718431
-"spring bloom timing","3M",2013,-0.589984969887587
-"spring bloom timing","3M",2014,-0.342003814837999
-"spring bloom timing","3M",2015,0.230628424864562
-"spring bloom timing","3M",2016,-0.0593406964923199
-"spring bloom timing","3M",2017,1.56043009691835
-"spring bloom timing","3M",2018,-1.2744311154296
-"spring bloom timing","3M",2019,-0.113043321544971
-"spring bloom timing","3M",2020,-1.17189653399844
-"spring bloom timing","3M",2021,-0.398603787167698
-"spring bloom timing","3M",2022,1.35246358677897
-"spring bloom timing","3M",2023,0.896515921589999
-"spring bloom timing","3LNO",2003,1.57029635827675
-"spring bloom timing","3LNO",2004,0.273009061219281
-"spring bloom timing","3LNO",2005,-0.616196977701501
-"spring bloom timing","3LNO",2006,-0.437826746945425
-"spring bloom timing","3LNO",2007,0.326761271846358
-"spring bloom timing","3LNO",2008,0.392804253343198
-"spring bloom timing","3LNO",2009,-0.76757425271551
-"spring bloom timing","3LNO",2010,-1.41260078024044
-"spring bloom timing","3LNO",2011,-0.55015399620466
-"spring bloom timing","3LNO",2012,-0.994873866093583
-"spring bloom timing","3LNO",2013,-0.760340010707884
-"spring bloom timing","3LNO",2014,0.483195075722508
-"spring bloom timing","3LNO",2015,1.55800558740699
-"spring bloom timing","3LNO",2016,-0.689240500348902
-"spring bloom timing","3LNO",2017,1.24296026650921
-"spring bloom timing","3LNO",2018,-0.562444767074424
-"spring bloom timing","3LNO",2019,0.617458751861668
-"spring bloom timing","3LNO",2020,0.326761271846358
-"spring bloom timing","3LNO",2021,-0.0543270305482625
-"spring bloom timing","3LNO",2022,0.539358700352125
-"spring bloom timing","3LNO",2023,0.434265693100512
-"spring bloom timing","234",2003,0.448272720947394
-"spring bloom timing","234",2004,0.250695639723363
-"spring bloom timing","234",2005,-0.825331394348636
-"spring bloom timing","234",2006,-0.941805662024481
-"spring bloom timing","234",2007,0.49402185640938
-"spring bloom timing","234",2008,-0.0723884909935702
-"spring bloom timing","234",2009,0.514698111576597
-"spring bloom timing","234",2010,-0.724796285842324
-"spring bloom timing","234",2011,0.165324430245191
-"spring bloom timing","234",2012,-0.70780887698942
-"spring bloom timing","234",2013,0.373374672214528
-"spring bloom timing","234",2014,0.16978156637992
-"spring bloom timing","234",2015,0.565634910246681
-"spring bloom timing","234",2016,-0.0177891984966548
-"spring bloom timing","234",2017,0.221118880255521
-"spring bloom timing","234",2018,0.428168795706395
-"spring bloom timing","234",2019,-0.0969124583451974
-"spring bloom timing","234",2020,-0.244259216664684
-"spring bloom timing","234",2021,-1.03240805328546
-"spring bloom timing","234",2022,-1.06927279429981
-"spring bloom timing","234",2023,0.71231251661066
-"spring bloom intensity","OB1EF",2003,0.167154290678091
-"spring bloom intensity","OB1EF",2004,-0.468558860659818
-"spring bloom intensity","OB1EF",2005,-0.807394619050431
-"spring bloom intensity","OB1EF",2006,-0.0964465896244985
-"spring bloom intensity","OB1EF",2007,-0.170928956933733
-"spring bloom intensity","OB1EF",2008,0.277381455211601
-"spring bloom intensity","OB1EF",2009,-0.114332347324614
-"spring bloom intensity","OB1EF",2010,-0.32593498845376
-"spring bloom intensity","OB1EF",2011,-0.509051580872164
-"spring bloom intensity","OB1EF",2012,0.188323741774879
-"spring bloom intensity","OB1EF",2013,-0.00588838822105713
-"spring bloom intensity","OB1EF",2014,0.415952364145625
-"spring bloom intensity","OB1EF",2015,0.907129270863702
-"spring bloom intensity","OB1EF",2016,0.24905299236494
-"spring bloom intensity","OB1EF",2017,0.0837804598768113
-"spring bloom intensity","OB1EF",2018,0.108945504240159
-"spring bloom intensity","OB1EF",2019,-0.0980905728610186
-"spring bloom intensity","OB1EF",2020,0.198906824845291
-"spring bloom intensity","OB1EF",2021,-0.219516526810253
-"spring bloom intensity","OB1EF",2022,0.195967350809551
-"spring bloom intensity","OB1EF",2023,0.687962742479153
-"spring bloom intensity","3M",2003,-0.390260940628284
-"spring bloom intensity","3M",2004,-0.211744084454603
-"spring bloom intensity","3M",2005,1.34805819366304
-"spring bloom intensity","3M",2006,0.889567947078873
-"spring bloom intensity","3M",2007,-0.461068170895117
-"spring bloom intensity","3M",2008,-0.660820284555318
-"spring bloom intensity","3M",2009,0.733995404659833
-"spring bloom intensity","3M",2010,0.447224039200006
-"spring bloom intensity","3M",2011,-0.855896082727346
-"spring bloom intensity","3M",2012,0.298875705172452
-"spring bloom intensity","3M",2013,0.336442068008912
-"spring bloom intensity","3M",2014,-0.894314632152935
-"spring bloom intensity","3M",2015,-0.519564927155995
-"spring bloom intensity","3M",2016,-0.467663359777275
-"spring bloom intensity","3M",2017,-0.512873266584646
-"spring bloom intensity","3M",2018,1.17234508011535
-"spring bloom intensity","3M",2019,0.232172935417426
-"spring bloom intensity","3M",2020,-0.484475624384379
-"spring bloom intensity","3M",2021,0.0987533879433475
-"spring bloom intensity","3M",2022,-0.16564483337482
-"spring bloom intensity","3M",2023,-0.837705840268301
-"spring bloom intensity","3LNO",2003,-0.301506368164029
-"spring bloom intensity","3LNO",2004,-0.126517735276467
-"spring bloom intensity","3LNO",2005,-1.01139147611534
-"spring bloom intensity","3LNO",2006,-0.252914389485906
-"spring bloom intensity","3LNO",2007,-0.062353407286556
-"spring bloom intensity","3LNO",2008,1.18459089887016
-"spring bloom intensity","3LNO",2009,0.19272581435389
-"spring bloom intensity","3LNO",2010,0.814472373522667
-"spring bloom intensity","3LNO",2011,0.643008534110765
-"spring bloom intensity","3LNO",2012,-0.57896039413697
-"spring bloom intensity","3LNO",2013,-0.123541685902539
-"spring bloom intensity","3LNO",2014,0.75574639870833
-"spring bloom intensity","3LNO",2015,-0.312491014192503
-"spring bloom intensity","3LNO",2016,-0.988467471206008
-"spring bloom intensity","3LNO",2017,-0.725817403463668
-"spring bloom intensity","3LNO",2018,0.657465135500951
-"spring bloom intensity","3LNO",2019,-0.572931665263564
-"spring bloom intensity","3LNO",2020,0.80888385542679
-"spring bloom intensity","3LNO",2021,-0.98182643030708
-"spring bloom intensity","3LNO",2022,-1.11621784443963
-"spring bloom intensity","3LNO",2023,-0.84749550159499
-"spring bloom intensity","234",2003,0.832136274091354
-"spring bloom intensity","234",2004,-0.201227207576293
-"spring bloom intensity","234",2005,-0.51449297165729
-"spring bloom intensity","234",2006,0.692649008657856
-"spring bloom intensity","234",2007,0.0142898756210025
-"spring bloom intensity","234",2008,-0.417331524215119
-"spring bloom intensity","234",2009,0.266460706098428
-"spring bloom intensity","234",2010,0.36896970139253
-"spring bloom intensity","234",2011,0.502387267355962
-"spring bloom intensity","234",2012,-0.105837386100229
-"spring bloom intensity","234",2013,-0.175094401119742
-"spring bloom intensity","234",2014,-0.426270469102047
-"spring bloom intensity","234",2015,0.254438427607954
-"spring bloom intensity","234",2016,-0.441541391909985
-"spring bloom intensity","234",2017,-0.815362099028414
-"spring bloom intensity","234",2018,0.29712507947887
-"spring bloom intensity","234",2019,-0.0299882233702183
-"spring bloom intensity","234",2020,-0.101310666224618
-"spring bloom intensity","234",2021,0.098090467542978
-"spring bloom intensity","234",2022,-0.311406979128686
-"spring bloom intensity","234",2023,0.090093658131764
-"copepod abundance","3M",1999,-1.44728639746065
-"copepod abundance","3M",2000,-1.94690392030924
-"copepod abundance","3M",2001,0.0333581605183191
-"copepod abundance","3M",2002,-1.30494414286397
-"copepod abundance","3M",2003,-0.728985526127445
-"copepod abundance","3M",2004,-0.661999107876455
-"copepod abundance","3M",2005,0.821929014534067
-"copepod abundance","3M",2006,0.280726585306481
-"copepod abundance","3M",2007,0.200749248285165
-"copepod abundance","3M",2008,0.424006978501828
-"copepod abundance","3M",2009,1.36317303731873
-"copepod abundance","3M",2010,1.56989969129101
-"copepod abundance","3M",2011,-0.439387634850376
-"copepod abundance","3M",2012,0.381970856753018
-"copepod abundance","3M",2013,0.134328248837933
-"copepod abundance","3M",2014,-1.29198332516189
-"copepod abundance","3M",2015,0.311952402471182
-"copepod abundance","3M",2016,1.76601519044315
-"copepod abundance","3M",2017,0.879697125184669
-"copepod abundance","3M",2018,0.582769146350066
-"copepod abundance","3M",2019,-0.886769473308078
-"copepod abundance","3M",2020,-0.0423161578374709
-"copepod abundance","3M",2021,1.02443664520757
-"copepod abundance","3M",2022,-1.9177001154899
-"copepod abundance","3M",2023,-0.773325347760985
-"copepod abundance","3LNO",1999,-1.43081745393864
-"copepod abundance","3LNO",2000,-0.923383332185406
-"copepod abundance","3LNO",2001,-1.29353676146161
-"copepod abundance","3LNO",2002,-0.317026814479458
-"copepod abundance","3LNO",2003,-0.772792737415143
-"copepod abundance","3LNO",2004,-1.01822460346624
-"copepod abundance","3LNO",2005,-0.231707707776952
-"copepod abundance","3LNO",2006,-0.99227909996743
-"copepod abundance","3LNO",2007,0.148081388197403
-"copepod abundance","3LNO",2008,-0.558821264847792
-"copepod abundance","3LNO",2009,0.18748542692041
-"copepod abundance","3LNO",2010,0.913784936122228
-"copepod abundance","3LNO",2011,0.403930464818613
-"copepod abundance","3LNO",2012,0.313149003518019
-"copepod abundance","3LNO",2013,-0.0322262189104806
-"copepod abundance","3LNO",2014,0.489470294951061
-"copepod abundance","3LNO",2015,0.476338069857733
-"copepod abundance","3LNO",2016,1.56399714893098
-"copepod abundance","3LNO",2017,1.33248580710949
-"copepod abundance","3LNO",2018,0.167593229245697
-"copepod abundance","3LNO",2019,0.731960067521704
-"copepod abundance","3LNO",2020,0.842540157255788
-"copepod abundance","3LNO",2021,1.71975525830142
-"copepod abundance","3LNO",2022,0.542826127784461
-"copepod abundance","3LNO",2023,0.596031085511209
-"copepod abundance","234",1999,-0.341187874044935
-"copepod abundance","234",2000,-0.714322509106209
-"copepod abundance","234",2001,-0.287365018867157
-"copepod abundance","234",2002,-0.407504239946497
-"copepod abundance","234",2003,0.0587299862104378
-"copepod abundance","234",2004,0.239011612744565
-"copepod abundance","234",2005,0.391234769105322
-"copepod abundance","234",2006,0.252539525218948
-"copepod abundance","234",2007,0.0177795486210242
-"copepod abundance","234",2008,-0.0788067045449217
-"copepod abundance","234",2009,-0.338991038542018
-"copepod abundance","234",2010,0.4632970644243
-"copepod abundance","234",2011,-0.00432092428493749
-"copepod abundance","234",2012,-0.525753543098891
-"copepod abundance","234",2013,-0.136474565678042
-"copepod abundance","234",2014,-0.265589259107652
-"copepod abundance","234",2015,0.34668965820649
-"copepod abundance","234",2016,0.839836036323683
-"copepod abundance","234",2017,0.323798034316777
-"copepod abundance","234",2018,-0.187022633970007
-"copepod abundance","234",2019,0.303827526685681
-"copepod abundance","234",2020,0.838743598395282
-"copepod abundance","234",2021,0.8947019570553
-"copepod abundance","234",2022,-0.0244042387061946
-"copepod abundance","234",2023,-0.582550149759064
-"zooplankton biomass","3M",1999,-0.916150844707341
-"zooplankton biomass","3M",2000,-2.57160716693392
-"zooplankton biomass","3M",2001,0.215750686552302
-"zooplankton biomass","3M",2002,1.42723448168508
-"zooplankton biomass","3M",2003,-0.708881970006031
-"zooplankton biomass","3M",2004,-1.27682972145194
-"zooplankton biomass","3M",2005,-0.108383970205825
-"zooplankton biomass","3M",2006,0.537836960787434
-"zooplankton biomass","3M",2007,-0.0462979045150553
-"zooplankton biomass","3M",2008,-0.506133094751314
-"zooplankton biomass","3M",2009,1.21750772922215
-"zooplankton biomass","3M",2010,0.956037080727656
-"zooplankton biomass","3M",2011,0.733796413397742
-"zooplankton biomass","3M",2012,-0.129645693481544
-"zooplankton biomass","3M",2013,-0.0409915832071026
-"zooplankton biomass","3M",2014,0.178267454172217
-"zooplankton biomass","3M",2015,-0.273966033442606
-"zooplankton biomass","3M",2016,2.23247921082209
-"zooplankton biomass","3M",2017,-0.637562423393578
-"zooplankton biomass","3M",2018,0.325093992419941
-"zooplankton biomass","3M",2019,-0.179258305078879
-"zooplankton biomass","3M",2020,-0.428295298611488
-"zooplankton biomass","3M",2021,0.961111054059928
-"zooplankton biomass","3M",2022,0.0170922050717453
-"zooplankton biomass","3M",2023,-0.735539058193068
-"zooplankton biomass","3LNO",1999,-0.850912598843263
-"zooplankton biomass","3LNO",2000,-0.302745088448158
-"zooplankton biomass","3LNO",2001,-0.244494257371112
-"zooplankton biomass","3LNO",2002,2.14812597065759
-"zooplankton biomass","3LNO",2003,0.402802479196855
-"zooplankton biomass","3LNO",2004,0.751459431072476
-"zooplankton biomass","3LNO",2005,-0.25189640328109
-"zooplankton biomass","3LNO",2006,0.230324171561719
-"zooplankton biomass","3LNO",2007,0.621280192005755
-"zooplankton biomass","3LNO",2008,-0.679572845448696
-"zooplankton biomass","3LNO",2009,0.0839082713425781
-"zooplankton biomass","3LNO",2010,0.205853022965
-"zooplankton biomass","3LNO",2011,-0.0961743192204774
-"zooplankton biomass","3LNO",2012,-0.987462162460812
-"zooplankton biomass","3LNO",2013,-0.877650850366564
-"zooplankton biomass","3LNO",2014,-0.967100755243673
-"zooplankton biomass","3LNO",2015,-0.168199928687769
-"zooplankton biomass","3LNO",2016,-0.329529444791555
-"zooplankton biomass","3LNO",2017,1.1260417880769
-"zooplankton biomass","3LNO",2018,0.553530322783539
-"zooplankton biomass","3LNO",2019,-0.495885071521776
-"zooplankton biomass","3LNO",2020,0.128298076022533
-"zooplankton biomass","3LNO",2021,0.601890281866771
-"zooplankton biomass","3LNO",2022,0.237853137928086
-"zooplankton biomass","3LNO",2023,-0.174476423360084
-"zooplankton biomass","234",1999,-0.908249643550729
-"zooplankton biomass","234",2000,-1.23514851196067
-"zooplankton biomass","234",2001,0.373041544814648
-"zooplankton biomass","234",2002,0.767006983566397
-"zooplankton biomass","234",2003,0.822200700927698
-"zooplankton biomass","234",2004,0.303650738525545
-"zooplankton biomass","234",2005,0.409618422775412
-"zooplankton biomass","234",2006,0.430372597237543
-"zooplankton biomass","234",2007,0.534145124944403
-"zooplankton biomass","234",2008,-0.158114475604637
-"zooplankton biomass","234",2009,-0.138340368942799
-"zooplankton biomass","234",2010,0.344256994459382
-"zooplankton biomass","234",2011,0.113500493790767
-"zooplankton biomass","234",2012,-0.608986227851746
-"zooplankton biomass","234",2013,-0.116220716762362
-"zooplankton biomass","234",2014,-0.354297989690257
-"zooplankton biomass","234",2015,-0.578232860543272
-"zooplankton biomass","234",2016,0.156742321671403
-"zooplankton biomass","234",2017,0.0377427434193264
-"zooplankton biomass","234",2018,0.164151558406177
-"zooplankton biomass","234",2019,-0.324593502767474
-"zooplankton biomass","234",2020,0.321177004264766
-"zooplankton biomass","234",2021,0.800852766682803
-"zooplankton biomass","234",2022,-0.0244942749244114
-"zooplankton biomass","234",2023,-0.0452482822078963
+"spring bloom timing","OB",1998,-0.353332413932455
+"spring bloom timing","OB",1999,NA
+"spring bloom timing","OB",2000,-0.769017606794166
+"spring bloom timing","OB",2001,-0.815204850445467
+"spring bloom timing","OB",2002,0.108540022580558
+"spring bloom timing","OB",2003,-0.399519657583756
+"spring bloom timing","OB",2004,-0.214770682978551
+"spring bloom timing","OB",2005,0.616599702744871
+"spring bloom timing","OB",2006,-0.307145170281153
+"spring bloom timing","OB",2007,-0.676643119491563
+"spring bloom timing","OB",2008,-0.214770682978551
+"spring bloom timing","OB",2009,1.6327190630735
+"spring bloom timing","OB",2010,-0.95376658139937
+"spring bloom timing","OB",2011,-1.55420074886629
+"spring bloom timing","OB",2012,0.708974190047473
+"spring bloom timing","OB",2013,2.27934047419171
+"spring bloom timing","OB",2014,1.30940835751439
+"spring bloom timing","OB",2015,1.21703387021179
+"spring bloom timing","OB",2016,0.0161655352779552
+"spring bloom timing","OB",2017,-0.353332413932455
+"spring bloom timing","OB",2018,NA
+"spring bloom timing","OB",2019,-1.13851555600458
+"spring bloom timing","OB",2020,-0.491894144886358
+"spring bloom timing","OB",2021,-0.907579337748069
+"spring bloom timing","OB",2022,-0.0762089520246473
+"spring bloom timing","OB",2023,-0.260957926629852
+"spring bloom timing","OB",2024,-1.18470279965588
+"spring bloom timing","3M",1998,0.231558516319751
+"spring bloom timing","3M",1999,-1.32226884484641
+"spring bloom timing","3M",2000,0.759847470710107
+"spring bloom timing","3M",2001,1.24347105217119
+"spring bloom timing","3M",2002,1.07547025629673
+"spring bloom timing","3M",2003,2.1957897573008
+"spring bloom timing","3M",2004,0.712456923595971
+"spring bloom timing","3M",2005,-0.44174725404633
+"spring bloom timing","3M",2006,-1.0946742182501
+"spring bloom timing","3M",2007,-0.226355911057725
+"spring bloom timing","3M",2008,-0.0827616823986558
+"spring bloom timing","3M",2009,-0.803457999878874
+"spring bloom timing","3M",2010,0.594571849020512
+"spring bloom timing","3M",2011,0.4401969240704
+"spring bloom timing","3M",2012,-0.523022477798692
+"spring bloom timing","3M",2013,-0.47965969173764
+"spring bloom timing","3M",2014,-0.300878199572131
+"spring bloom timing","3M",2015,-0.0448492447073455
+"spring bloom timing","3M",2016,-0.154558796728191
+"spring bloom timing","3M",2017,1.32474627592356
+"spring bloom timing","3M",2018,-1.58919849645067
+"spring bloom timing","3M",2019,-0.216877801634898
+"spring bloom timing","3M",2020,-1.06623988998162
+"spring bloom timing","3M",2021,-0.975486556806427
+"spring bloom timing","3M",2022,1.34370249476921
+"spring bloom timing","3M",2023,0.915644982976877
+"spring bloom timing","3M",2024,-0.520297303613821
+"spring bloom timing","3LNO",1998,-0.373875782512102
+"spring bloom timing","3LNO",1999,-0.861368090560031
+"spring bloom timing","3LNO",2000,-0.807514678082005
+"spring bloom timing","3LNO",2001,0.378149473537591
+"spring bloom timing","3LNO",2002,1.02518641129363
+"spring bloom timing","3LNO",2003,1.31427900834023
+"spring bloom timing","3LNO",2004,0.38157087913641
+"spring bloom timing","3LNO",2005,-0.744099947743954
+"spring bloom timing","3LNO",2006,-0.656828467297496
+"spring bloom timing","3LNO",2007,0.0113467139045575
+"spring bloom timing","3LNO",2008,0.2308846683519
+"spring bloom timing","3LNO",2009,-1.15388209320545
+"spring bloom timing","3LNO",2010,-1.77364087525426
+"spring bloom timing","3LNO",2011,-0.530701905557821
+"spring bloom timing","3LNO",2012,-1.03591105145295
+"spring bloom timing","3LNO",2013,-0.707963373113129
+"spring bloom timing","3LNO",2014,0.552692434430511
+"spring bloom timing","3LNO",2015,1.48610346257075
+"spring bloom timing","3LNO",2016,1.23042893349259
+"spring bloom timing","3LNO",2017,1.22086761563256
+"spring bloom timing","3LNO",2018,-0.605693561481862
+"spring bloom timing","3LNO",2019,0.802929950183896
+"spring bloom timing","3LNO",2020,0.243164492874317
+"spring bloom timing","3LNO",2021,-0.0397881919110755
+"spring bloom timing","3LNO",2022,0.441564203875643
+"spring bloom timing","3LNO",2023,0.324296061059567
+"spring bloom timing","3LNO",2024,-0.343879120142486
+"spring bloom timing","234",1998,-0.42246671733666
+"spring bloom timing","234",1999,-0.944716183498402
+"spring bloom timing","234",2000,0.682517478515184
+"spring bloom timing","234",2001,0.653873962742525
+"spring bloom timing","234",2002,1.16358995292272
+"spring bloom timing","234",2003,0.436812220872869
+"spring bloom timing","234",2004,0.277609137545452
+"spring bloom timing","234",2005,-0.777819558163333
+"spring bloom timing","234",2006,-1.01022638660766
+"spring bloom timing","234",2007,0.232724362848315
+"spring bloom timing","234",2008,0.00617631010321062
+"spring bloom timing","234",2009,0.189718867429929
+"spring bloom timing","234",2010,-0.836659240928463
+"spring bloom timing","234",2011,0.122961743950446
+"spring bloom timing","234",2012,-0.76409547724757
+"spring bloom timing","234",2013,0.262853239932149
+"spring bloom timing","234",2014,0.201765515206046
+"spring bloom timing","234",2015,0.319605286910835
+"spring bloom timing","234",2016,-0.0163927439524988
+"spring bloom timing","234",2017,0.116591143045097
+"spring bloom timing","234",2018,0.0374837126692045
+"spring bloom timing","234",2019,-0.0811871885142392
+"spring bloom timing","234",2020,-0.273186155781824
+"spring bloom timing","234",2021,-0.970316035553919
+"spring bloom timing","234",2022,-1.03629519972547
+"spring bloom timing","234",2023,0.151153546949605
+"spring bloom timing","234",2024,-0.670719081400711
+"spring bloom intensity","OB1EF",1998,0.529899715038816
+"spring bloom intensity","OB1EF",1999,NA
+"spring bloom intensity","OB1EF",2000,-0.823335219944701
+"spring bloom intensity","OB1EF",2001,0.173914201098965
+"spring bloom intensity","OB1EF",2002,0.20137048103183
+"spring bloom intensity","OB1EF",2003,1.41571524791018
+"spring bloom intensity","OB1EF",2004,0.655467155063326
+"spring bloom intensity","OB1EF",2005,-0.10315958357997
+"spring bloom intensity","OB1EF",2006,1.03495778145943
+"spring bloom intensity","OB1EF",2007,0.472873494927031
+"spring bloom intensity","OB1EF",2008,-0.7545258594244
+"spring bloom intensity","OB1EF",2009,-1.43961597255048
+"spring bloom intensity","OB1EF",2010,0.420632540438138
+"spring bloom intensity","OB1EF",2011,1.22448254423786
+"spring bloom intensity","OB1EF",2012,-1.06177057886256
+"spring bloom intensity","OB1EF",2013,-1.07686054522335
+"spring bloom intensity","OB1EF",2014,-1.50544638969211
+"spring bloom intensity","OB1EF",2015,-0.785312043986056
+"spring bloom intensity","OB1EF",2016,-0.876186796035863
+"spring bloom intensity","OB1EF",2017,0.41974627687937
+"spring bloom intensity","OB1EF",2018,NA
+"spring bloom intensity","OB1EF",2019,0.43442249610675
+"spring bloom intensity","OB1EF",2020,1.97263077014661
+"spring bloom intensity","OB1EF",2021,0.560788794058817
+"spring bloom intensity","OB1EF",2022,-0.826427143510292
+"spring bloom intensity","OB1EF",2023,1.90426376650729
+"spring bloom intensity","OB1EF",2024,2.46732532748083
+"spring bloom intensity","3M",1998,-1.00921024307057
+"spring bloom intensity","3M",1999,-0.892810312548289
+"spring bloom intensity","3M",2000,-0.467659174735557
+"spring bloom intensity","3M",2001,-1.1573279359885
+"spring bloom intensity","3M",2002,1.60776258659223
+"spring bloom intensity","3M",2003,-0.559438680812972
+"spring bloom intensity","3M",2004,-0.497122028843588
+"spring bloom intensity","3M",2005,2.19812822319882
+"spring bloom intensity","3M",2006,-0.989906249269842
+"spring bloom intensity","3M",2007,0.137481293534311
+"spring bloom intensity","3M",2008,-0.602003906986873
+"spring bloom intensity","3M",2009,-0.0550682900898705
+"spring bloom intensity","3M",2010,0.865571173002922
+"spring bloom intensity","3M",2011,-0.706919418315517
+"spring bloom intensity","3M",2012,-0.647239321818589
+"spring bloom intensity","3M",2013,-0.0138116073542113
+"spring bloom intensity","3M",2014,-0.613165840083931
+"spring bloom intensity","3M",2015,-1.03688164332855
+"spring bloom intensity","3M",2016,-0.100908417548871
+"spring bloom intensity","3M",2017,-0.535638471002324
+"spring bloom intensity","3M",2018,1.40148110677587
+"spring bloom intensity","3M",2019,1.76341927682294
+"spring bloom intensity","3M",2020,0.902057638800394
+"spring bloom intensity","3M",2021,-0.262273952764534
+"spring bloom intensity","3M",2022,0.509912570822059
+"spring bloom intensity","3M",2023,-0.557310732537462
+"spring bloom intensity","3M",2024,-0.833787074223386
+"spring bloom intensity","3LNO",1998,-0.511534187849866
+"spring bloom intensity","3LNO",1999,-0.858643303576327
+"spring bloom intensity","3LNO",2000,-1.27205990617976
+"spring bloom intensity","3LNO",2001,-0.623871912241376
+"spring bloom intensity","3LNO",2002,0.992303649794395
+"spring bloom intensity","3LNO",2003,0.482795076419866
+"spring bloom intensity","3LNO",2004,-0.596752963080726
+"spring bloom intensity","3LNO",2005,-0.825407911651355
+"spring bloom intensity","3LNO",2006,0.021642998020461
+"spring bloom intensity","3LNO",2007,0.0668751554040621
+"spring bloom intensity","3LNO",2008,1.15511287734569
+"spring bloom intensity","3LNO",2009,-0.6806596928617
+"spring bloom intensity","3LNO",2010,-0.640099652288693
+"spring bloom intensity","3LNO",2011,-0.331008301371626
+"spring bloom intensity","3LNO",2012,-0.528083263779672
+"spring bloom intensity","3LNO",2013,0.656851000355266
+"spring bloom intensity","3LNO",2014,2.87349659853404
+"spring bloom intensity","3LNO",2015,-1.17466170581101
+"spring bloom intensity","3LNO",2016,-0.878142401177306
+"spring bloom intensity","3LNO",2017,0.730497386810696
+"spring bloom intensity","3LNO",2018,-0.0507403567340377
+"spring bloom intensity","3LNO",2019,0.0591417728886099
+"spring bloom intensity","3LNO",2020,1.4214148551805
+"spring bloom intensity","3LNO",2021,-0.488659148821024
+"spring bloom intensity","3LNO",2022,-1.01208673984623
+"spring bloom intensity","3LNO",2023,0.0261647803701086
+"spring bloom intensity","3LNO",2024,0.343310283150425
+"spring bloom intensity","234",1998,-0.0396251432548576
+"spring bloom intensity","234",1999,-0.401150779564411
+"spring bloom intensity","234",2000,-0.756815427801541
+"spring bloom intensity","234",2001,-0.182838090365242
+"spring bloom intensity","234",2002,0.233492784925095
+"spring bloom intensity","234",2003,-0.125488059213787
+"spring bloom intensity","234",2004,-0.062834153322367
+"spring bloom intensity","234",2005,-0.104616613992271
+"spring bloom intensity","234",2006,0.122041058867563
+"spring bloom intensity","234",2007,0.128369544636651
+"spring bloom intensity","234",2008,-0.396906351084963
+"spring bloom intensity","234",2009,0.0392380842616068
+"spring bloom intensity","234",2010,0.0752967411715401
+"spring bloom intensity","234",2011,0.339613778348397
+"spring bloom intensity","234",2012,0.0715468529154623
+"spring bloom intensity","234",2013,-0.268878155310452
+"spring bloom intensity","234",2014,-0.354607136257576
+"spring bloom intensity","234",2015,-0.603560055668941
+"spring bloom intensity","234",2016,0.202744128576272
+"spring bloom intensity","234",2017,-0.0649443841425194
+"spring bloom intensity","234",2018,0.690789237740243
+"spring bloom intensity","234",2019,0.41987749445056
+"spring bloom intensity","234",2020,0.999629500830678
+"spring bloom intensity","234",2021,0.399749035061433
+"spring bloom intensity","234",2022,0.10089068131789
+"spring bloom intensity","234",2023,0.962520956534195
+"spring bloom intensity","234",2024,0.172075698228389
+"copepod abundance","3M",1999,-1.44922604971456
+"copepod abundance","3M",2000,-1.94889817148187
+"copepod abundance","3M",2001,0.0313385124446006
+"copepod abundance","3M",2002,-1.30618255451078
+"copepod abundance","3M",2003,-0.730501497479358
+"copepod abundance","3M",2004,-0.663354474109712
+"copepod abundance","3M",2005,0.819636619534316
+"copepod abundance","3M",2006,0.279493381624791
+"copepod abundance","3M",2007,0.198505072448716
+"copepod abundance","3M",2008,0.423028157502321
+"copepod abundance","3M",2009,1.36214963297388
+"copepod abundance","3M",2010,1.57039371956471
+"copepod abundance","3M",2011,-0.44046901076554
+"copepod abundance","3M",2012,0.381028604632975
+"copepod abundance","3M",2013,0.133406478478917
+"copepod abundance","3M",2014,-1.29344958052815
+"copepod abundance","3M",2015,0.308351874983635
+"copepod abundance","3M",2016,1.76397474070811
+"copepod abundance","3M",2017,0.876965005163299
+"copepod abundance","3M",2018,0.579640333789648
+"copepod abundance","3M",2019,-0.88831735450707
+"copepod abundance","3M",2020,-0.00751344075287666
+"copepod abundance","3M",2021,1.0220290652222
+"copepod abundance","3M",2022,-1.92174578326974
+"copepod abundance","3M",2023,-0.778224404552831
+"copepod abundance","3M",2024,-0.0650326948959027
+"copepod abundance","3LNO",1999,-1.44395072905766
+"copepod abundance","3LNO",2000,-0.937404777245519
+"copepod abundance","3LNO",2001,-1.32821266626712
+"copepod abundance","3LNO",2002,-0.326791509727495
+"copepod abundance","3LNO",2003,-0.776096976969452
+"copepod abundance","3LNO",2004,-0.803507098287142
+"copepod abundance","3LNO",2005,-0.247126997307493
+"copepod abundance","3LNO",2006,-1.0500448733102
+"copepod abundance","3LNO",2007,0.107594587482993
+"copepod abundance","3LNO",2008,-0.615804258981743
+"copepod abundance","3LNO",2009,0.170188655723332
+"copepod abundance","3LNO",2010,0.879206434128398
+"copepod abundance","3LNO",2011,0.36441411747506
+"copepod abundance","3LNO",2012,0.27168876676559
+"copepod abundance","3LNO",2013,-0.0611509185942207
+"copepod abundance","3LNO",2014,0.49381328247362
+"copepod abundance","3LNO",2015,0.49943662182671
+"copepod abundance","3LNO",2016,1.54093971452227
+"copepod abundance","3LNO",2017,1.26837383336261
+"copepod abundance","3LNO",2018,0.492896312036613
+"copepod abundance","3LNO",2019,0.67283468065428
+"copepod abundance","3LNO",2020,0.828703799296584
+"copepod abundance","3LNO",2021,1.71795217720091
+"copepod abundance","3LNO",2022,0.852607572698644
+"copepod abundance","3LNO",2023,0.633215094598957
+"copepod abundance","3LNO",2024,1.06487725049245
+"copepod abundance","234",1999,-0.306778520170704
+"copepod abundance","234",2000,-0.664602002998366
+"copepod abundance","234",2001,-0.315492216219608
+"copepod abundance","234",2002,-0.379640375596412
+"copepod abundance","234",2003,0.0583631130897683
+"copepod abundance","234",2004,0.312455294550772
+"copepod abundance","234",2005,0.362312089927313
+"copepod abundance","234",2006,0.166390751550168
+"copepod abundance","234",2007,0.0246695756632588
+"copepod abundance","234",2008,-0.0640122008496351
+"copepod abundance","234",2009,-0.35598103946479
+"copepod abundance","234",2010,0.379614833353725
+"copepod abundance","234",2011,0.0299937175714568
+"copepod abundance","234",2012,-0.540562019286468
+"copepod abundance","234",2013,-0.124689031552538
+"copepod abundance","234",2014,-0.327212690720163
+"copepod abundance","234",2015,0.356793466004336
+"copepod abundance","234",2016,0.843673818798876
+"copepod abundance","234",2017,0.343786968577598
+"copepod abundance","234",2018,-0.166844395590585
+"copepod abundance","234",2019,0.34096869976332
+"copepod abundance","234",2020,0.858249871211308
+"copepod abundance","234",2021,0.91130840003492
+"copepod abundance","234",2022,-0.00995133862939946
+"copepod abundance","234",2023,-0.209989388798383
+"copepod abundance","234",2024,-0.130832097127096
+"zooplankton biomass","3M",1999,-1.1473223780223
+"zooplankton biomass","3M",2000,-2.41133105541562
+"zooplankton biomass","3M",2001,0.369745680943129
+"zooplankton biomass","3M",2002,1.49664559536738
+"zooplankton biomass","3M",2003,-0.701180686614899
+"zooplankton biomass","3M",2004,-1.37259018066635
+"zooplankton biomass","3M",2005,-0.644465516197871
+"zooplankton biomass","3M",2006,0.664219104299218
+"zooplankton biomass","3M",2007,0.00926566342253871
+"zooplankton biomass","3M",2008,-0.48125751391602
+"zooplankton biomass","3M",2009,1.24756682274099
+"zooplankton biomass","3M",2010,0.824765400285122
+"zooplankton biomass","3M",2011,0.805607897189909
+"zooplankton biomass","3M",2012,0.0066210442280616
+"zooplankton biomass","3M",2013,-0.0522160690274937
+"zooplankton biomass","3M",2014,0.207997554531301
+"zooplankton biomass","3M",2015,-0.359872092108834
+"zooplankton biomass","3M",2016,2.08354181815518
+"zooplankton biomass","3M",2017,-0.552662374862169
+"zooplankton biomass","3M",2018,0.405428917127475
+"zooplankton biomass","3M",2019,-0.00299747960730767
+"zooplankton biomass","3M",2020,-0.395510151851431
+"zooplankton biomass","3M",2021,0.850515226211318
+"zooplankton biomass","3M",2022,0.279122268770831
+"zooplankton biomass","3M",2023,-0.553773753927363
+"zooplankton biomass","3M",2024,-0.473301646708551
+"zooplankton biomass","3LNO",1999,-0.819451483977968
+"zooplankton biomass","3LNO",2000,-0.304494057775447
+"zooplankton biomass","3LNO",2001,-0.205497772184111
+"zooplankton biomass","3LNO",2002,2.14572274329483
+"zooplankton biomass","3LNO",2003,0.492300984893907
+"zooplankton biomass","3LNO",2004,0.711826883255894
+"zooplankton biomass","3LNO",2005,-0.290719235052547
+"zooplankton biomass","3LNO",2006,0.277596744388653
+"zooplankton biomass","3LNO",2007,0.512225942098691
+"zooplankton biomass","3LNO",2008,-0.681713525149494
+"zooplankton biomass","3LNO",2009,0.020511230045661
+"zooplankton biomass","3LNO",2010,0.152868086448746
+"zooplankton biomass","3LNO",2011,-0.255482695845515
+"zooplankton biomass","3LNO",2012,-0.911404677361238
+"zooplankton biomass","3LNO",2013,-1.05583486486035
+"zooplankton biomass","3LNO",2014,-0.912010917753102
+"zooplankton biomass","3LNO",2015,-0.180733997489769
+"zooplankton biomass","3LNO",2016,-0.282229880424868
+"zooplankton biomass","3LNO",2017,1.20344579834043
+"zooplankton biomass","3LNO",2018,0.443305642724639
+"zooplankton biomass","3LNO",2019,-0.166071775053249
+"zooplankton biomass","3LNO",2020,0.105840827436202
+"zooplankton biomass","3LNO",2021,1.0143333818612
+"zooplankton biomass","3LNO",2022,0.316316955701654
+"zooplankton biomass","3LNO",2023,0.00821836406972589
+"zooplankton biomass","3LNO",2024,0.357322363407089
+"zooplankton biomass","234",1999,-0.907260982628005
+"zooplankton biomass","234",2000,-1.24394371184139
+"zooplankton biomass","234",2001,0.344970131705275
+"zooplankton biomass","234",2002,0.801072757310912
+"zooplankton biomass","234",2003,0.821439831427382
+"zooplankton biomass","234",2004,0.302011564061456
+"zooplankton biomass","234",2005,0.32978160508735
+"zooplankton biomass","234",2006,0.456425848283686
+"zooplankton biomass","234",2007,0.535327898877835
+"zooplankton biomass","234",2008,-0.115083212365282
+"zooplankton biomass","234",2009,-0.131039677158282
+"zooplankton biomass","234",2010,0.256732336878095
+"zooplankton biomass","234",2011,0.0899827675448442
+"zooplankton biomass","234",2012,-0.562850067131587
+"zooplankton biomass","234",2013,-0.154650827518536
+"zooplankton biomass","234",2014,-0.388990338332441
+"zooplankton biomass","234",2015,-0.572577148797724
+"zooplankton biomass","234",2016,0.169360208846221
+"zooplankton biomass","234",2017,0.0391955911208866
+"zooplankton biomass","234",2018,0.16606538845187
+"zooplankton biomass","234",2019,-0.21777371492333
+"zooplankton biomass","234",2020,0.315263307168444
+"zooplankton biomass","234",2021,0.810592891085728
+"zooplankton biomass","234",2022,0.0756768860376895
+"zooplankton biomass","234",2023,0.0147620971301696
+"zooplankton biomass","234",2024,0.0975467735278936
