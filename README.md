@@ -3,6 +3,6 @@ These indices are used as input for the Standing Committee on Fisheries Science 
 
 Methodological details can be found in the following publication:
 
-D. Bélanger, J. Coyne and F. Cyr (2025). Environmental indices for NAFO subareas 0 to 4 in support of the Standing Committee on Fisheries Science (STACFIS) – 2024 update. NAFO SCR Doc. 24/012
-https://www.nafo.int/Portals/0/PDFs/sc/2024/scr24-012.pdf
+D. Bélanger, J. Coyne and F. Cyr (2025). Environmental indices for NAFO subareas 0 to 4 in support of the Standing Committee on Fisheries Science (STACFIS) – 2024 update. NAFO SCR Doc. 25/012
+https://www.nafo.int/Portals/0/PDFs/sc/2025/scr25-012.pdf
 
